@@ -1,1 +1,1 @@
-# scpts
+console.log("welcome");
